@@ -1,7 +1,9 @@
-streamlit
+
 pandas
 scikit-learn
 openai
 python-docx
 PyPDF2
 matplotlib
+streamlit==1.35.0
+PyMuPDF==1.23.22
